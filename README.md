@@ -8,8 +8,7 @@ yolov4_yolov5
 1. 安裝CUDA tool kit (v.12)
 2. 安裝CUDNN (v.8)
 3. 安裝anconda中的 tensorflow-gpu
----
-### 遇到問題
+#### 遇到問題
 1. pycharm 執行範例程式會找不到特定的dll
 2. tensorflow-gpu抓不到gpu執行
 
@@ -17,11 +16,10 @@ yolov4_yolov5
 1. 調整CUDA版本為11
 2. 刪掉Anconda tensorflow
 3. 重新安裝Anconda tensorflow-gpu
----
-### 遇到問題
+#### 遇到問題
 1. pycharm 執行範例程式會找不到特定的dll
 2. tensorflow-gpu抓不到gpu執行
-### 另行解決辦法
+#### 另行解決辦法
 1. 使用CSDN 教學 https://blog.csdn.net/qq_41456654/article/details/115533152
 2. 安裝pytorch，並執行yolov5
 3. 成功使用cpu運行
