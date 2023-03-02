@@ -24,3 +24,10 @@ yolov4_yolov5
 2. 安裝pytorch，並執行yolov5
 3. 成功使用cpu運行
 4. 透過```py s.environ['CUDA_VISIBLE_DEVICES'] = '0'```指令調整使用gpu優先
+5. 透過pytorch使用yolov5 偵測汽車成功
+
+## 2023/03/02
+1. 調整CUDA中的dll檔案
+2. 多下載CUDNN V7的版本丟入 CUDA的bin環境中
+3. pycharm 跑測試檔案，可以正常抓到GPU
+
