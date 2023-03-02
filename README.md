@@ -23,7 +23,7 @@ yolov4_yolov5
 1. 使用CSDN 教學 https://blog.csdn.net/qq_41456654/article/details/115533152
 2. 安裝pytorch，並執行yolov5
 3. 成功使用cpu運行
-4. 透過``` s.environ['CUDA_VISIBLE_DEVICES'] = '0'```指令調整使用gpu優先
+4. 透過```s.environ['CUDA_VISIBLE_DEVICES'] = '0'```指令調整使用gpu優先
 5. 透過pytorch使用yolov5 偵測汽車成功
 
 ## 2023/03/02
