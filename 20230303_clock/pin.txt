@@ -1,0 +1,22 @@
+To, Location
+
+rst, Pin_Y4
+
+clk, PIN_G1
+
+BT2, Pin_T22
+ 
+seg[6], PIN_H15
+seg[5], PIN_H14
+seg[4], PIN_H16
+seg[3], PIN_N16
+seg[2], PIN_P16
+seg[1], PIN_R15
+seg[0], PIN_R14
+
+d1[0], PIN_N17
+d1[1], PIN_P17
+d1[2], PIN_R16
+
+
+
