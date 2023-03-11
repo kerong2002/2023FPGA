@@ -32,4 +32,4 @@ yolov4_yolov5
 3. pycharm 跑測試檔案，可以正常抓到GPU
 
 ## 2023/03/12
-1. pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+1. ```pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html```
